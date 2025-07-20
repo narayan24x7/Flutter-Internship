@@ -58,17 +58,17 @@ This project was created as part of a Flutter internship to demonstrate core Flu
 
 3. **Run the app**
 
-   * **Android / iOS**
+   **Android / iOS**
 
      ```bash
      flutter run
      ```
-   * **Web**
+   **Web**
 
      ```bash
      flutter run -d chrome
      ```
-   * **Desktop**
+  **Desktop**
 
      ```bash
      flutter run -d windows   # or macos / linux
