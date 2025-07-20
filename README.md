@@ -50,32 +50,30 @@ This project was created as part of a Flutter internship to demonstrate core Flu
    cd Flutter-Internship
 ````
 
-2. **Install dependencies**
+2. Install dependencies
 
    ```bash
    flutter pub get
    ```
 
-3. **Run the app**
+3. Run the app
 
-   **Android / iOS**
-
+   Android / iOS
      ```bash
      flutter run
      ```
-   **Web**
 
+   Web
      ```bash
      flutter run -d chrome
      ```
-  **Desktop**
 
+  Desktop
      ```bash
      flutter run -d windows   # or macos / linux
      ```
 
 ## 🗂 Project Structure
-
 ```
 Flutter-Internship/
 ├── android/
