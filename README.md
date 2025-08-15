@@ -73,7 +73,7 @@ This project was created as part of a Flutter internship to demonstrate core Flu
      flutter run -d windows   # or macos / linux
      ```
 
-## 🗂 Project Structure
+🗂 Project Structure
 ```
 Flutter-Internship/
 ├── android/
@@ -90,16 +90,16 @@ Flutter-Internship/
 └── README.md              # This file
 ```
 
-## ▶️ Usage
+▶️ Usage
 
-* **Tap** any numeric button to build your expression.
-* Press **`=`** to evaluate.
-* Press **`C`** to clear the entire input.
-* Press **`DEL`** to delete the last character.
-* Use **`%`** to calculate percentage, and **`+/-`** to toggle sign.
+Tap any numeric button to build your expression.
+Press `=` to evaluate.
+Press `C` to clear the entire input.
+Press `DEL` to delete the last character.
+Use `%` to calculate percentage, and **`+/-`** to toggle sign.
 
 
-## 📦 Dependencies
+📦 Dependencies
 
 | Package            | Version | Purpose                          |
 | ------------------ | ------- | -------------------------------- |
@@ -110,7 +110,7 @@ Flutter-Internship/
 | `flutter_lints`    | ^4.0.0  | Lint rules                       |
 
 
-## 🤝 Contributing
+🤝 Contributing
 1. Fork the repo
 2. Create your feature branch (`git checkout -b feature/YourFeature`)
 3. Commit your changes (`git commit -m 'Add YourFeature'`)
@@ -119,9 +119,9 @@ Flutter-Internship/
 
 Please follow the existing code style and add tests for new functionality.
 
-## 📄 License
+📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Contact
+📬 Contact
 
 Narayan Kachhi – narayankachhi43@gmail.com
